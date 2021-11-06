@@ -14,7 +14,7 @@ const BarChart = () => {
 
     const mockData = {
         labels: {
-            categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+            categories: ['KaKashi', 'Nagato', 'Madara', 'Jiraya', 'Minato']
         },
         series: [
             {
