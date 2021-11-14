@@ -5,7 +5,7 @@ type Props = {
     onPageChance: Function;
 }
 
-const Pagination = ({ page, onPageChance }: Props) => {
+const Pagination = ( { page, onPageChance } : Props) => {
 
     return (
 
